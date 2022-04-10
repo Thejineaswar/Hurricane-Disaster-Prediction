@@ -4,7 +4,7 @@
 
 - [x] Baseline using Pytorch Lightning( Also using a existing tensorflow pipeline)
 - [x] Integration with wandb
-- [x] Experiment models
-  - [ ] Resnet
+- [] Experiment models
+  - [x] Resnet
   - [ ] Efficientnet
   - [ ] Vision Transformer
